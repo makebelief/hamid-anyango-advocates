@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hamid-anyango-advocates.vercel.app/sitemap.xml
